@@ -141,8 +141,3 @@ Pull requests are welcome! For major changes, please open an issue first.
 4. Push: `git push origin feature/my-feature`
 5. Open a pull request
 
----
-
-## 🙋‍♂️ Author
-
-Made with ☕ and vanilla JS. No frameworks were harmed in the making of this project.
